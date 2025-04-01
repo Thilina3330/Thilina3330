@@ -1,21 +1,68 @@
-<h1 align="center">Hi 👋, I'm Thilina Madushan</h1>
-<h3 align="center">A passionate Full-Stack developer from Sri Lanka</h3>
+# Hi 👋, I'm Thilina Madushan
+## 🚀 Full Stack Developer | YouTuber
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thilina3330&label=Profile%20views&color=0e75b6&style=flat" alt="thilina3330" /> </p>
+![GitHub Profile Views](https://komarev.com/ghpvc/?username=Thilina3330&label=Profile%20views&color=0e75b6&style=flat)
 
-- 🌱 I’m currently learning **java**
+I'm a passionate Full-Stack Developer from Sri Lanka, specializing in web and mobile development. I love coding, sharing knowledge, and building innovative solutions.
 
-- 📫 How to reach me **thilinamadshan33.99@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/thilina madushan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thilina madushan" height="30" width="40" /></a>
-<a href="https://fb.com/thilina madushan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="thilina madushan" height="30" width="40" /></a>
-</p>
+## 🌱 Currently Learning
+- Java
+- Advanced React.js
+- Backend Development with Node.js & Express
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
+## 📫 How to Reach Me
+- **Email:** thilinamadshan33.99@gmail.com
+- **Phone:** +94764452599
+- **GitHub:** [Thilina3330](https://github.com/Thilina3330)
+- **LinkedIn:** [Thilina Madushan](https://www.linkedin.com/in/thilina-madhushan-a61916309)
 
+---
+
+## 🛠️ Tech Stack
+
+### Programming Languages:
+![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+### Web Development:
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=sql&logoColor=white)
+
+### Tools & Technologies:
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+---
+
+## 📂 My GitHub Repositories
+
+### 🔥 Featured Projects
+- **[Portfolio Website](https://github.com/Thilina3330/portfolio)** – My personal portfolio website showcasing my work.
+- **[Pothpoliyo Website](https://github.com/Thilina3330/pothpoliyo-website)** – Web project for Pothpoliyo.
+- **[Zero to Coder](https://github.com/Thilina3330/zero-to-coder)** – Repository for my YouTube coding tutorials.
+
+---
+
+## 📊 GitHub Stats
+![Thilina's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Thilina3330&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Thilina3330&layout=compact&theme=radical)
+
+---
+
+## 🤝 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/thilina-madhushan-a61916309)
+[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCJVGuRWmJnBmnv1NonG8oyw)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Thilina3330)
+
+🚀 **Let's code and build amazing things together!**
 
 <!--
 **Thilina3330/Thilina3330** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
