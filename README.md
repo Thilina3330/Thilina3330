@@ -44,9 +44,9 @@ I'm a passionate Full-Stack Developer from Sri Lanka, specializing in web and mo
 ## 📂 My GitHub Repositories
 
 ### 🔥 Featured Projects
-- **[Portfolio Website](https://github.com/Thilina3330/portfolio)** – My personal portfolio website showcasing my work.
-- **[Pothpoliyo Website](https://github.com/Thilina3330/pothpoliyo-website)** – Web project for Pothpoliyo.
+- **[Portfolio Website](https://github.com/Thilina3330/My-portfolio)** – My personal portfolio website showcasing my work.
 - **[Zero to Coder](https://github.com/Thilina3330/zero-to-coder)** – Repository for my YouTube coding tutorials.
+- **[studio raw website].(https://github.com/sithu0302/Studio_RAW_Web_Page).**-
 
 ---
 
